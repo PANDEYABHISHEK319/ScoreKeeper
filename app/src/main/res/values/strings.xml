@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ScoreKeeper</string>
+    <string name="onerun">+1 Run</string>
+    <string name="tworun">+2 Run</string>
+    <string name="fourrun">+4 Run</string>
+    <string name="sixrun">+6 Run</string>
+    <string name="out">OUT</string>
+    <string name="reset">Reset</string>
+</resources>
